@@ -1,0 +1,28 @@
+.u-section-1 .u-image-1 {
+  min-height: 440px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph3.jpg");
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 363px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 278px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 209px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 132px;
+  }
+}
